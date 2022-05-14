@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(cuaca LANGUAGES CXX)
+project(aplikasi_cuaca LANGUAGES CXX)
 
-set(BINARY_NAME "cuaca")
+set(BINARY_NAME "aplikasi_cuaca")
 
 cmake_policy(SET CMP0063 NEW)
 
